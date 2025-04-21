@@ -6,17 +6,16 @@
 
 ThunderLang supports:
 
-| Keyword     | Function                         |
-|-------------|----------------------------------|
-| `Shai`      | Print                            |
-| `Chet`      | Input                            |
-| `Joe`       | Addition / Concatenation         |
-| `Jaylin`    | Subtraction                      |
-| `Wiggins`   | Multiplication                   |
-| `IHart`     | Division                         |
-| `Mark`      | Integer Variable Declaration     |
-| `Presti`    | String Variable Declaration      |
-| `Holmgren`  | Reverse a string                 |
+Keyword | Function | Example Usage
+Shai | Print | Shai "Hello World"
+Chet | Input | Chet username
+Joe | Addition / Concatenation | result = a Joe b
+Jaylin | Subtraction | result = x Jaylin y
+Wiggins | Multiplication | result = num1 Wiggins num2
+IHart | Division | result = total IHart count
+Mark | Integer Variable Declaration | Mark score 10
+Presti | String Variable Declaration | Presti greeting "Thunder Up!"
+Holmgren | Reverse a string | reversed = Holmgren name
 
 > Yes, all Thunder players.
 
