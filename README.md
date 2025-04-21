@@ -8,10 +8,10 @@
 |-----------|----------------------------------|-------------------------------------|
 | `Shai`    | Print                            | `Shai "Hello World"`                |
 | `Chet`    | Input                            | `Chet username`                     |
-| `Joe`     | Addition / Concatenation         | `result = a Joe b`                  |
-| `Jaylin`  | Subtraction                      | `result = x Jaylin y`               |
-| `Wiggins` | Multiplication                   | `result = num1 Wiggins num2`        |
-| `IHart`   | Division                         | `result = total IHart count`        |
+| `Joe`     | Addition / Concatenation         | `Mark a Joe b`                  |
+| `Jaylin`  | Subtraction                      | `Mark x Jaylin y`               |
+| `Wiggins` | Multiplication                   | `Mark num1 Wiggins num2`        |
+| `IHart`   | Division                         | `Mark total IHart count`        |
 | `Mark`    | Integer Variable Declaration     | `Mark score 10`                     |
 | `Presti`  | String Variable Declaration      | `Presti greeting "Thunder Up!"`     |
 | `Holmgren`| Reverse a string                 | `reversed = Holmgren name`          |
