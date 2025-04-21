@@ -14,7 +14,7 @@
 | `IHart`   | Division                         | `Mark total IHart count`        |
 | `Mark`    | Integer Variable Declaration     | `Mark score 10`                     |
 | `Presti`  | String Variable Declaration      | `Presti greeting "Thunder Up!"`     |
-| `Holmgren`| Reverse a string                 | `Presti reversed Holmgren name`          |
+| `Holmgren`| Reverse a string                 | `Presti reversedVar Holmgren name`          |
 
 
 ## 🧠 Example Programs
