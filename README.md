@@ -8,8 +8,8 @@
 |-----------|----------------------------------|-------------------------------------|
 | `Shai`    | Print                            | `Shai "Hello World"`                |
 | `Chet`    | Input                            | `Chet username`                     |
-| `Joe`     | Addition / Concatenation         | `Mark a Joe b`                  |
-| `Jaylin`  | Subtraction                      | `Mark x Jaylin y`               |
+| `Joe`     | Addition / Concatenation         | `Mark result a Joe b`                  |
+| `Jaylin`  | Subtraction                      | `Mark result x Jaylin y`               |
 | `Wiggins` | Multiplication                   | `Mark num1 Wiggins num2`        |
 | `IHart`   | Division                         | `Mark total IHart count`        |
 | `Mark`    | Integer Variable Declaration     | `Mark score 10`                     |
