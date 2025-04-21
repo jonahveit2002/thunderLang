@@ -1,0 +1,55 @@
+Shai "Welcome to ThunderHoops!"
+
+Chet team1
+Chet team2
+
+Presti match team1 Joe " vs. " Joe team2
+Shai match
+
+Shai ""
+Shai "Quarter 1"
+
+Chet team1qtr1Score
+Chet team2qtr1Score
+
+Presti qtr1Score "Quarter1 score: " Joe team1 Joe ": " Joe team1qtr1Score Joe " vs. " Joe team2 Joe ": " Joe team2qtr1Score
+Shai qtr1Score
+
+Shai ""
+Shai "Quarter 2"
+
+Chet team1qtr2Score
+Chet team2qtr2Score
+
+Mark team1TotalScore team1qtr2Score Joe team1qtr1Score
+Mark team2TotalScore team2qtr2Score Joe team2qtr1Score
+
+Presti qtr2Score "Quarter2 score: " Joe team1 Joe ": " Joe team1TotalScore Joe " vs. " Joe team2 Joe ": " Joe team2TotalScore
+Shai qtr2Score
+
+Shai ""
+Shai "Quarter 3"
+
+Chet team1qtr3Score
+Chet team2qtr3Score
+
+Mark team1TotalScore team1qtr3Score Joe team1TotalScore
+Mark team2TotalScore team2qtr3Score Joe team2TotalScore
+
+Presti qtr3Score "Quarter3 score: " Joe team1 Joe ": " Joe team1TotalScore Joe " vs. " Joe team2 Joe ": " Joe team2TotalScore
+Shai qtr3Score
+
+Shai ""
+Shai "Quarter 4"
+
+Chet team1qtr4Score
+Chet team2qtr4Score
+
+Mark team1TotalScore team1qtr4Score Joe team1TotalScore
+Mark team2TotalScore team2qtr4Score Joe team2TotalScore
+
+Shai ""
+Shai "End of Regulation"
+
+Presti finalScore "Final Score: " Joe team1 Joe ": " Joe team1TotalScore Joe " vs. " Joe team2 Joe ": " Joe team2TotalScore
+Shai finalScore
