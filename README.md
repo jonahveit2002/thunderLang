@@ -8,7 +8,7 @@
 |-----------|----------------------------------|-------------------------------------|
 | `Shai`    | Print                            | `Shai "Hello World"`                |
 | `Chet`    | Input                            | `Chet username`                     |
-| `Joe`     | Addition / Concatenation         | `Mark result a Joe b`                  |
+| `Joe`     | Addition                         | `Mark result a Joe b`                  |
 | `Jaylin`  | Subtraction                      | `Mark result x Jaylin y`               |
 | `Wiggins` | Multiplication                   | `Mark num1 Wiggins num2`        |
 | `IHart`   | Division                         | `Mark total IHart count`        |
